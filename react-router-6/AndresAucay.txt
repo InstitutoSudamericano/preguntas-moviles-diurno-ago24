@@ -1,0 +1,33 @@
+                                                            Banco de Preguntas
+
+                                    Tema: Conceptos Básicos de React Router
+Andres Aucay
+
+-------1. ¿Qué es un BrowserRouter en React Router y cuál es su función principal? [6]
+
+        A. Un componente que permite definir rutas dinámicas en la aplicación.
+
+        B. Un componente que envuelve la aplicación y utiliza la API de historia del navegador para manejar las URLs.
+
+        C. Un componente que proporciona navegación programática entre las rutas de la aplicación.
+
+    ANSWER: B
+
+-------2. ¿Cómo se pueden manejar parámetros dinámicos en las rutas con React Router? [6]
+
+        A. Utilizando Link para pasar parámetros directamente en la URL.
+
+        B. Definiendo rutas con Route y accediendo a los parámetros mediante hooks como useParams.
+
+        C. Usando BrowserRouter para envolver las rutas dinámicas.
+
+    ANSWER: B
+------ 3. ¿Cuál es el propósito del componente Link en React Router? [6]
+
+        A. Proveer una forma de navegar entre las rutas sin recargar la página.
+
+        B. Definir rutas anidadas dentro de una aplicación.
+
+        C. Establecer el contexto global de enrutamiento para la aplicación.
+
+    ANSWER: A
