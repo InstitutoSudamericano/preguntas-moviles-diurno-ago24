@@ -1,0 +1,20 @@
+¿Qué es React Router?
+a) Una biblioteca para manejar rutas en aplicaciones React.
+b) Una herramienta para crear estilos CSS en React.
+c) Una librería para manejar formularios en React.
+
+Respuesta : a
+
+¿Cuál es el componente principal de React Router para definir rutas?
+a) <Route>
+b) <Link>
+c) <Router>
+
+Respuesta : a
+
+¿Qué hace el componente <Link> en React Router?
+a) Define una ruta en la aplicación.
+b) Navega a la página especificada.
+c) Establece el enlace entre componentes.
+
+Respuesta : b
