@@ -1,0 +1,24 @@
+1. ¿Cuál es el propósito principal de React Router en una aplicación React? [2.1:number]
+
+A) Facilitar la manipulación de estados globales
+B) Mejorar el rendimiento del renderizado de componentes
+C) Manejar el enrutamiento y la navegación en aplicaciones de una sola página (SPA)
+D) Proporcionar herramientas para la gestión de formularios y validaciones
+ANSWER: C
+
+¿Cuál de los siguientes hooks de React Router se utiliza para acceder y manipular el historial de navegación?
+
+A) useLocation
+B) useParams
+C) useRouteMatch
+D) useHistory
+ANSWER: D
+
+
+¿Qué componente de React Router se utiliza para envolver la aplicación y habilitar el enrutamiento?
+
+A) <Route>
+B) <Link>
+C) <BrowserRouter>
+D) <Switch>
+ANSWER: C
