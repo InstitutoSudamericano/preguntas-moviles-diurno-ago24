@@ -1,0 +1,28 @@
+Pregunta de FREDDY PAGUAY
+
+1- ¿Cuál de los siguientes componentes de React Router se utiliza para definir rutas específicas y renderizar componentes según la URL actual?
+A) <BrowserRouter>
+B) <Route>
+C) <NavLink>
+D) <Redirect>
+
+
+ANSWER: B. 
+
+2- ¿Cuál es la función principal del hook useParams en React Router?
+A) Acceder y manipular el historial de navegación
+B) Proporcionar información sobre la ubicación actual de la URL
+C) Extraer parámetros dinámicos de la URL
+D) Coincidir la URL actual con patrones de ruta definidos
+
+ANSWER: C. 
+
+
+
+3- ¿Qué componente de React Router permite cambiar la URL sin recargar la página y es utilizado para crear enlaces de navegación?
+A) <Route>
+B) <Link>
+C) <Switch>
+D) <HashRouter>
+
+ANSWER: B. 
