@@ -1,0 +1,28 @@
+TEMA:                       REACT-ROUTER
+
+
+
+PREGUNTAAS SEMANALES:
+
+
+¿Qué función cumple React Router en una aplicación web React?
+a Manejar el estado global de la aplicación
+b Gestionar las rutas y la navegación entre componentes
+c Estilizar los componentes de la interfaz de usuario
+
+RESPUESTA b
+
+
+¿Qué componente de React Router se utiliza para definir rutas en una aplicación?
+a <Route>
+b <Link>
+c <Switch>
+
+RESPUESTA a
+
+¿Cuál de las siguientes declaraciones describe mejor el propósito de <Link> en React Router?
+a Renderiza un componente cuando su ruta coincide con la URL actual
+b Define un enlace que dirige a una URL específica
+c Activa la navegación entre diferentes rutas en la aplicación
+
+RESPUESTA b
