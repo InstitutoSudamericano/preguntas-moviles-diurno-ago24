@@ -1,0 +1,35 @@
+**Banco de Preguntas**
+
+**Tema: Comunicación con React Router DOM**
+
+**Por: Diego Guzhñay.**
+
+1. **¿Cuál es el objetivo principal de React Router DOM en una aplicación React?**
+
+   A. React Router DOM se utiliza para gestionar el estado de la aplicación.
+
+   B. React Router DOM se utiliza para manipular la interfaz de usuario de la aplicación.
+
+   C. React Router DOM se utiliza para facilitar la navegación y el enrutamiento dentro de una aplicación React, permitiendo que diferentes componentes se rendericen según la URL.
+
+   **RESPUESTA: C**
+
+2. **¿Cómo se puede definir una ruta con parámetros en React Router DOM?**
+
+   A. `<Route path="/ruta/:parametro" component={Componente} />`
+
+   B. `<Route path="/ruta" component={Componente} parametro />`
+
+   C. `<Route path="/ruta" parametros={Componente} />`
+
+   **RESPUESTA: A**
+
+3. **¿Cuál es la función de `<Link>` en React Router DOM?**
+
+   A. `<Link>` se utiliza para cargar componentes de forma asincrónica.
+
+   B. `<Link>` se utiliza para definir rutas de navegación en la aplicación.
+
+   C. `<Link>` se utiliza para conectar la aplicación con una base de datos externa.
+
+   **RESPUESTA: B**
